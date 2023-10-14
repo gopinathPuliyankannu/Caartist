@@ -9,6 +9,7 @@ typing
 bson
 pymongo
 python-jose
+python-multipart
 jose
 datetime
 firebase_admin

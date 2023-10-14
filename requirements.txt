@@ -9,7 +9,6 @@ typing
 bson
 pymongo
 jose
-random
 datetime
 firebase_admin
 uvicorn

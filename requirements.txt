@@ -8,6 +8,7 @@ pydantic
 typing
 bson
 pymongo
+python-jose
 jose
 datetime
 firebase_admin
